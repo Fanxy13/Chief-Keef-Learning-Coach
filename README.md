@@ -1,4 +1,4 @@
-# 📚 KI-Lerncoach
+# Chief Keef KI-Lerncoach
 
 Ein KI-Coach, der dich Schritt für Schritt auf deine Prüfung vorbereitet:
 Er erklärt den Stoff, fragt dich ab, passt die Schwierigkeit an und macht am Schluss eine Probeprüfung.
