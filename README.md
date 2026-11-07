@@ -1,4 +1,4 @@
-<img src="logo.png">
+<img src="logo.png" height="200px">
 # Chief Keef KI-Lerncoach
 
 Ein KI-Coach, der dich Schritt für Schritt auf deine Prüfung vorbereitet:
